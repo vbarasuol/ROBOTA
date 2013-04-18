@@ -1,0 +1,17 @@
+<package>
+  <description brief="robotaTurtle">
+
+     robotaTurtle
+
+  </description>
+  <author>patrick</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/robotaTurtle</url>
+  <depend package="roscpp"/>
+  <depend package="turtlesim"/>
+  <depend package="opencv2"/>
+
+</package>
+
+
